@@ -39,4 +39,3 @@ Visualization of Insights:
 
 Conclusion:
 The nuanced analysis suggests a heightened susceptibility to COVID-19 infections among individuals residing in more developed countries compared to their less developed counterparts.
-![image](https://github.com/AshishLakkapatri/Covid---19-Data-Analysis/assets/69083448/a1bbdfbc-dba2-4d0c-a65a-106ee7366fae)
