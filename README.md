@@ -2,12 +2,12 @@
 
 ## Project Objective:
 
-Explore the relationship between COVID-19 spread and happiness levels in different countries.
+- Explored the intricate relationship between COVID-19 spread and happiness levels in countries.
 
 ## Utilized Datasets:
 
-- COVID-19 Dataset from John Hopkins University
-- World Happiness Report Dataset
+- Utilized COVID-19 Dataset from John Hopkins University.
+- Employed World Happiness Report Dataset.
 
 ## Data Preparation:
 
@@ -32,8 +32,8 @@ Explore the relationship between COVID-19 spread and happiness levels in differe
 
 - Discovered positive correlations between infection rates and life factors.
 - Plotted GDP per capita against the maximum infection rate.
-- Applied regression line for enhanced visualization.
+- Applied a regression line for enhanced visualization.
 
 ## Conclusion:
 
-Analysis suggests a heightened COVID-19 susceptibility in more developed countries.
+- Analysis suggested a heightened COVID-19 susceptibility in more developed countries.
